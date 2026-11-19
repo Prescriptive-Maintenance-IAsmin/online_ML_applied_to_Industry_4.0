@@ -4,6 +4,21 @@
 
 By adapting and optimizing the **BAT-OCDM** rehearsal strategy (centered on dynamic memory management), this framework effectively combats **catastrophic forgetting** and **concept drift** without requiring costly full offline retraining.
 
+## Citation
+
+If you use this implementation (BAT-OCDM MOD123, ECDD, or G-Learning) in your research, please cite our paper:
+
+```bibtex
+@inproceedings{oliveira2026dynamic,
+  author    = {de Oliveira, Stephanie Leong and Berton, Lilian},
+  title     = {Dynamic Rehearsal Strategies for Online Continual Learning: A Case Study on Industrial Multi-Label Alarm Streams},
+  booktitle = {2026 13th International Conference on Soft Computing \& Machine Intelligence (ISCMI)},
+  year      = {2026},
+  publisher = {IEEE}
+  % pages   = {1--6},
+  % doi     = {10.1109/ISCMIXXXXX.2026.XXXXXXX}
+}
+```
 ---
 
 ## 📌 Key Features
