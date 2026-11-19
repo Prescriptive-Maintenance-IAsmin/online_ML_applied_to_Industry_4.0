@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or the proposed BAT-OCDM variants, please cite our paper below."
+title: "Dynamic Rehearsal Strategies for Online Continual Learning: A Case Study on Industrial Multi-Label Alarm Streams"
+authors:
+  - family-names: "de Oliveira"
+    given-names: "Stephanie Leong"
+    affiliation: "Institute of Science and Technology - UNIFESP / CPQD"
+  - family-names: "Berton"
+    given-names: "Lilian"
+    affiliation: "Institute of Science and Technology - UNIFESP"
+preferred-citation:
+  type: conference-paper
+  title: "Dynamic Rehearsal Strategies for Online Continual Learning: A Case Study on Industrial Multi-Label Alarm Streams"
+  authors:
+    - family-names: "de Oliveira"
+      given-names: "Stephanie Leong"
+    - family-names: "Berton"
+      given-names: "Lilian"
+  year: 2026
+  collection-title: "2026 13th International Conference on Soft Computing & Machine Intelligence (ISCMI)"
+  publisher:
+    name: "IEEE"
+  # doi: "10.1109/ISCMIXXXXX.2026.XXXXXXX" # Descomente e preencha quando o DOI sair no IEEE Xplore
