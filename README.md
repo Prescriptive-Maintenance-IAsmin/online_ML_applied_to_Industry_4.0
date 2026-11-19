@@ -15,7 +15,7 @@ If you use this implementation (BAT-OCDM MOD123, ECDD, or G-Learning) in your re
   booktitle = {2026 13th International Conference on Soft Computing \& Machine Intelligence (ISCMI)},
   year      = {2026},
   publisher = {IEEE}
-  % pages   = {1--6},
+  pages   = {1--6},
   % doi     = {10.1109/ISCMIXXXXX.2026.XXXXXXX}
 }
 ```
